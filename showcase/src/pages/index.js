@@ -7,7 +7,7 @@ function Index() {
       <Nav />
       <div className="h-[85vh] flex flex-col justify-evenly items-center text-4xl text-black">
         <div className="flex justify-center items-center">
-          We're
+          We&apos;re
           <div className="italic ml-2 mr-2">farmers, purveyors,</div>
           and
           <div className="italic ml-2">eaters</div>
@@ -17,9 +17,9 @@ function Index() {
         </button>
       </div>
       <div className="h-[80vh] flex justify-evenly items-center">
-        <img src="/greens.jpg" className="w-1/2 -pr-20" />
+        <img src="/greens.jpg" className="w-1/2 -pr-20" alt="Greens" />
         <div className="w-[40%] pr-20 -pl-20 flex flex-col text-black text-sm">
-          <img src="/vege.webp" />
+          <img src="/vege.webp" alt="Romanesco" />
           Romanesco - an eye-catching vegetable with an intricate, spiral-like
           shape and bright green color. What’s more, it offers several powerful
           plant compounds.
